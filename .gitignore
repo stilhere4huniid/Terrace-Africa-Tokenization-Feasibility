@@ -1,0 +1,10 @@
+# Python junk
+__pycache__/
+*.pyc
+
+# Virtual Env
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
